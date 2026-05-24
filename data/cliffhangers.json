@@ -1,0 +1,48 @@
+{
+    "id": 126159289,
+    "name": "Cliff Hanger",
+    "author": "Zis76",
+    "creators": ["Zis76"],
+    "verifier": "Zis76",
+    "verification": "https://www.youtube.com/watch?v=hYwzf29Jkpw",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Tomato",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Tfluffy",
+            "link": "",
+            "percent": 100,
+            "hz": 0.5
+        },
+        {
+            "user": "ga b",
+            "link": "",
+            "percent": 100,
+            "hz": 145
+        },
+        {
+            "user": "Rusty",
+            "link": "",
+            "percent": 100,
+            "hz": 253823
+        },
+              {
+            "user": "nuridint3b",
+            "link": "",
+            "percent": 100,
+            "hz": 124359325
+        },
+        {
+            "user": "Probro675",
+            "link": "",
+            "percent": 100,
+            "hz": -2
+        },
+    ]
+}
