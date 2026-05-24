@@ -1,0 +1,24 @@
+{
+    "id": 126159289,
+    "name": "Rainy Nights",
+    "author": "Maple",
+    "creators": ["TomatoKatsup"], ["Maple"],
+    "verifier": "Tomato",
+    "verification": "https://www.youtube.com/watch?v=pzw3ctWSPl0",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "fire",
+            "link": "https://discord.com/channels/1350947230236016672/1424513275583922289/1424513275583922289",
+            "percent": 100,
+            "hz": 1
+        }
+              {
+            "user": "pentamery",
+            "link": "https://discord.com/channels/1350947230236016672/1424627470421721119/1424627470421721119",
+            "percent": 100,
+            "hz": 0.5
+        }
+    ]
+}
