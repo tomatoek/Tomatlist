@@ -1,0 +1,24 @@
+{
+    "id": 135941134,
+    "name": "TetoNeverClear II",
+    "author": "Dyno",
+    "creators": ["Dyno"],
+    "verifier": "Dyno",
+    "verification": "https://www.youtube.com/watch?v=MOtXUjssyB0",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Tomato",
+            "link": "https://youtu.be/-Zk4oTwnVzk?si=C0ZW8tXAZ7CXoqD-&t=47",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ryxenol7",
+            "link": "https://www.youtube.com/watch?v=jF4pZNZpI4s",
+            "percent": 100,
+            "hz": -12
+        }
+    ]
+}
