@@ -1,0 +1,30 @@
+{
+    "id": 130263772,
+    "name": "Neurofunk",
+    "author": "MapleMilkshake",
+    "creators": ["MapleMilkshake"],
+    "verifier": "MapleMilkshake",
+    "verification": "https://www.youtube.com/watch?v=PDqhMYYqbQE",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [        
+        {
+            "user": "Pentamery",
+            "link": "https://medal.tv/games/geometry-dash/clips/m4YmZBg8DvfFl4Z3b?invite=cr-MSxuaHosNDQ0NzEwNjc5&v=16",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "JameSharpener",
+            "link": "https://youtu.be/f13dNKrqsyM?si=EJWb1d_u59MXBtMC&t=122",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Tomato",
+            "link": "https://youtu.be/Yqvfd6X7z3c?si=5gs_2eYwGWSTFj4O&t=37",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
