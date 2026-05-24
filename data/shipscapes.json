@@ -1,0 +1,30 @@
+{
+    "id": 132190322,
+    "name": "SHIPSCAPES",
+    "author": "Rusty",
+    "creators": ["Rusty"],
+    "verifier": "Rusty",
+    "verification": "https://www.youtube.com/watch?v=YOrJlI38Ck0",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [        
+        {
+            "user": "ga b",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": 17
+        },
+        {
+            "user": "Tomato",
+            "link": "https://discord.com/channels/1413625809112924307/1484293304718725270/1484293304718725270",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
