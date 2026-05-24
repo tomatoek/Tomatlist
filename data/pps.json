@@ -1,0 +1,72 @@
+{
+    "id": 130603987,
+    "name": "PLEASE PLEASE SPEED",
+    "author": "tFluffy",
+    "creators": ["MMB9595"],
+    "verifier": "MMB9595",
+    "verification": "https://www.youtube.com/watch?v=vD0fXSHj56Q",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sadisyourlife",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": 74
+        },
+        {
+            "user": "Rusty",
+            "link": "https://www.youtube.com/watch?v=t-YOOxdJV84",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "zis76",
+            "link": "https://www.youtube.com/watch?v=QDCF6qP0AHE",
+            "percent": 100,
+            "hz": 76
+        },
+        {
+            "user": "c1z",
+            "link": "https://www.youtube.com/watch?v=t520YzTKsOY",
+            "percent": 100,
+            "hz": 12
+        },
+              {
+            "user": "ga b",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": 2
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": -2
+        },
+        {
+            "user": "Bananas",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": 2
+        },
+              {
+            "user": "Zenos Sins",
+            "link": "https://www.youtube.com/watch?v=lidTjZx0s_I",
+            "percent": 100,
+            "hz": 2
+        },
+                    {
+            "user": "Probro675",
+            "link": "https://www.youtube.com/watch?v=g8ZjKifXZDw",
+            "percent": 100,
+            "hz": 2
+        },
+                    {
+            "user": "tomato",
+            "link": "https://discord.com/channels/1413625809112924307/1483148362743152821/1483148362743152821",
+            "percent": 100,
+            "hz": 288
+        },
+    ]
+}
