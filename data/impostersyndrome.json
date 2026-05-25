@@ -1,0 +1,18 @@
+{
+    "id": 128630459,
+    "name": "Imposter Syndrome",
+    "author": "TomatoKatsup",
+    "creators": ["TomatoKatsup"],
+    "verifier": "Tomato",
+    "verification": "https://www.youtube.com/watch?v=J-DmtS9Np4c",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "JameSharpener",
+            "link": "https://youtu.be/BVhY6CTnMo4?si=icJqy6_xbH6hkUig&t=367",
+            "percent": 100,
+            "hz": 23452
+        }
+    ]
+}
