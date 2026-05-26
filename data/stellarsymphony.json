@@ -1,0 +1,36 @@
+{
+    "id": 134416964,
+    "name": "Stellar Symphony",
+    "author": "Probro675",
+    "creators": ["Probro675"],
+    "verifier": "Probro675",
+    "verification": "https://www.youtube.com/watch?v=AaFG2JTkN88",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MMB9595",
+            "link": "https://medal.tv/games/geometry-dash/clips/mcn9In8PAF979EgDj",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tomato",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://www.youtube.com/watch?v=vU-wuGPskEs",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ga b",
+            "link": "https://discord.com/channels/1413625809112924307/1482641085434957825/1482641085434957825",
+            "percent": 100,
+            "hz": "CBS"
+        }
+    ]
+}
