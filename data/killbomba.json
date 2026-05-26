@@ -1,0 +1,24 @@
+{
+    "id": 131879318,
+    "name": "killbomba",
+    "author": "hypeytw",
+    "creators": ["hypeytw"],
+    "verifier": "Maxr",
+    "verification": "https://www.youtube.com/watch?v=Y5Eo0Fo1VTc",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Tomato",
+            "link": "https://discord.com/channels/1413625809112924307/14855177088743546988",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
