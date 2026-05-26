@@ -1,0 +1,24 @@
+{
+    "id": 129741314,
+    "name": "Bad ChristmasPresent",
+    "author": "TomatoKatsup",
+    "creators": ["TomatoKatsup"],
+    "verifier": "Tomato",
+    "verification": "https://www.youtube.com/watch?v=OrOzKE4jgP4",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "zis76",
+            "link": "https://medal.tv/games/geometry-dash/clips/m6OL9TrFIUrCrN38P",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rusty",
+            "link": "https://youtu.be/46YhhDsd4zU?si=FM1yY5RcPPkU0Kk2&t=23",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
