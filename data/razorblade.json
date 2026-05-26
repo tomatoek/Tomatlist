@@ -1,0 +1,42 @@
+{
+    "id": 130681800,
+    "name": "Razorblade",
+    "author": "DemonicFishTank",
+    "creators": ["DemonicFishTank"],
+    "verifier": "Zis76",
+    "verification": "https://www.youtube.com/watch?v=ufIN3vhVZk4",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rusty",
+            "link": "https://www.youtube.com/watch?v=cn4EQICpltA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://www.youtube.com/watch?v=UwbM5GQnaFA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "sadisyourlife",
+            "link": "https://tomatolist.flamingketchup1.workers.dev/#/",
+            "percent": 100,
+            "hz": CBF
+        },
+        {
+            "user": "Tomato",
+            "link": "https://discord.com/channels/1413625809112924307/1484721342421925958/1484721342421925958",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Probro675",
+            "link": "https://www.youtube.com/watch?v=B3C8m_fd11U",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
