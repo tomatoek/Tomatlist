@@ -1,0 +1,24 @@
+{
+    "id": 124040084,
+    "name": "tcd challenge",
+    "author": "pixelfactorial",
+    "creators": ["pixelfactorial"],
+    "verifier": "pixel",
+    "verification": "https://www.youtube.com/watch?v=B4OiMrJyLWY",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Tomato",
+            "link": "https://discord.com/channels/781250898142691329/829815756396429312/1455151700825342004",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "lancestorm",
+            "link": "https://discord.com/channels/781250898142691329/829815756396429312/1466210500533551145",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
